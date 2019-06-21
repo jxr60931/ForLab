@@ -1,3 +1,3 @@
-#for develope！
+#for master!
 
 print("HelloWorld")
