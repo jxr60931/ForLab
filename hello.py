@@ -1,3 +1,3 @@
-#for formerge!
+#for merge!
 
 print("HelloWorld")
