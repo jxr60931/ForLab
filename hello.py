@@ -1,3 +1,3 @@
-#示範Git用的程式碼！
+#for develope！
 
 print("HelloWorld")
