@@ -24,7 +24,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: 我也不會給你看我的啦
+    secure: 4506d2b2-5b26-4f36-aa6a-5d5c8a9f9011
   app: test-my-travisci-project
   on:
     repo: jxr60931/ForLab
