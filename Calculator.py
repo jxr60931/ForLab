@@ -22,7 +22,7 @@ def divided(a, b):
 
 class TestCalculator(unittest.TestCase):
     def test_int_add(self):
-        self.assertEqual(add(9, 2), 12)
+        self.assertEqual(add(9, 3), 12)
 
     def test_int2_add(self):
         self.assertEqual(add(9, 4), 13)
